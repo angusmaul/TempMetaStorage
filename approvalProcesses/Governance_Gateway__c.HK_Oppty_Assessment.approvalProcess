@@ -22,7 +22,7 @@
         <allowDelegate>true</allowDelegate>
         <assignedApprover>
             <approver>
-                <name>tim.moore@ingenuity.com.au.bai.remainco.build.1</name>
+                <name>tim.moore@ingenuity.com.au.baiint</name>
                 <type>user</type>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
