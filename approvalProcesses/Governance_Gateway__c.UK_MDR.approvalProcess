@@ -34,7 +34,7 @@
         <allowDelegate>true</allowDelegate>
         <assignedApprover>
             <approver>
-                <name>jenina.market@bai.remainco.build.com</name>
+                <name>shireen.liew@ingenuity.com.au.baiint</name>
                 <type>user</type>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
